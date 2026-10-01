@@ -1,0 +1,9 @@
+pair,γ=1_ceq_bps,γ=10_ceq_bps
+HARQ vs HAR,9985.9,
+HARQ vs HAR,,-7635.53
+HARQ-DRD vs HAR-DRD,-23.78,
+HARQ-DRD vs HAR-DRD,,-12.05
+EWMAQ vs EWMA,36.2,
+EWMAQ vs EWMA,,35.76
+HEAVYQ vs HEAVY,9.73,
+HEAVYQ vs HEAVY,,13.6

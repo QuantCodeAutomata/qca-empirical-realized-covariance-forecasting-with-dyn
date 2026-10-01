@@ -1,0 +1,10 @@
+{
+  "mcs_90pct_frobenius": [
+    "HAR-DRD",
+    "HARQ-DRD",
+    "EWMA",
+    "EWMAQ",
+    "HEAVY",
+    "HEAVYQ"
+  ]
+}

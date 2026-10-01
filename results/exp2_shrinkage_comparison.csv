@@ -1,0 +1,9 @@
+strategy,gamma,ann_vol_shrunk,ann_vol_harqdrd,ceq_harqdrd_vs_shrunk_bps
+HAR-DRD+identity,1,18.4306,11.0985,1241.77
+HAR-DRD+identity,10,18.4306,11.0985,274.99
+HAR-DRD+equicorrelation,1,11.2322,11.0985,713.72
+HAR-DRD+equicorrelation,10,11.2322,11.0985,702.16
+HAR-DRD+single_factor,1,14.8161,11.0985,1358.86
+HAR-DRD+single_factor,10,14.8161,11.0985,932.08
+1/N,1,29.615,11.0985,2362.22
+1/N,10,29.615,11.0985,-1020.96
